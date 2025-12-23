@@ -73,8 +73,8 @@ h2 {
     transition: .5s ease;
 }
 
-.input-box input:focus ~ label,
-.input-box input:not(:placeholder-shown) ~ label {
+.input-box input:focus~label,
+.input-box input:not(:placeholder-shown)~label {
     top: -5px;
 }
 
