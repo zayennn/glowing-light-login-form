@@ -303,7 +303,6 @@ button {
 }
 
 
-
 .input-check:checked~.toggle .text.on {
     top: 76px;
     opacity: 1;
